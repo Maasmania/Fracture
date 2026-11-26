@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minShell": "1.0.0",
   "files": [
     {
       "path": "index.html",
-      "size": 476277,
-      "sha256": "c2e399165230da81911da27997725e0fd6a6721bdfc04546757ff561593d9bf4"
+      "size": 484354,
+      "sha256": "81a26c7194c94bfcdd1469b239df14997ef900ca9a88a2756c1db5febef73ef0"
     }
   ]
 }

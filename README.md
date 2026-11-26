@@ -6,4 +6,4 @@ Server install/update on the VPS (as root):
 
     curl -fsSL https://raw.githubusercontent.com/Maasmania/Fracture/main/setup.sh | bash
 
-Current version: 1.0.2
+Current version: 1.0.3
